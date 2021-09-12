@@ -13,3 +13,4 @@
   1) [SELECT 문법](https://www.notion.so/SELECT-229b27f8f01f4d4ca0b32c7b958cf7e0)
   2) [ORDER BY 문법](https://www.notion.so/ORDER-BY-645bfd901fe142b1815c25859d1eeb59)
   3) [SELECT DISTINCT 문법](https://www.notion.so/SELECT-DISTINCT-9a29ab26aaed41cd8b9d24b8433c2152)
+  4) [WHERE 절](https://www.notion.so/WHERE-ad7298e682d9478f861984e01335e4be)
