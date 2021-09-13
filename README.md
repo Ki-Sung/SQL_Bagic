@@ -15,3 +15,4 @@
   3) [SELECT DISTINCT 문법](https://www.notion.so/SELECT-DISTINCT-9a29ab26aaed41cd8b9d24b8433c2152)
   4) [WHERE 절](https://www.notion.so/WHERE-ad7298e682d9478f861984e01335e4be)
   5) [LIMIT 절](https://www.notion.so/LIMIT-590fe61afbf043d6a7d8a8c039fe8996)
+  6) [FETCH 절](https://www.notion.so/FETCH-f4ca84a0a6c84c0f8f5a43be09a0859c)
