@@ -16,3 +16,4 @@
   4) [WHERE 절](https://www.notion.so/WHERE-ad7298e682d9478f861984e01335e4be)
   5) [LIMIT 절](https://www.notion.so/LIMIT-590fe61afbf043d6a7d8a8c039fe8996)
   6) [FETCH 절](https://www.notion.so/FETCH-f4ca84a0a6c84c0f8f5a43be09a0859c)
+  7) [IN 연산자](https://www.notion.so/IN-5f91ab62a3a945d3a77fcfbbfd905c8b)
