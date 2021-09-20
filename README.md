@@ -9,8 +9,8 @@
 
 - SQL 기본 문법 - Postgre SQL (사용 TOOL은 DBeaver)
 
-## [SQL 문법](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_bagic_grammar)
-### Part 1 - 조회와 필터링
+## SQL 문법
+### [Part 1 - 조회와 필터링](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_bagic_grammar_part1)
   1) [SELECT 문법](https://www.notion.so/SELECT-229b27f8f01f4d4ca0b32c7b958cf7e0)
   2) [ORDER BY 문법](https://www.notion.so/ORDER-BY-645bfd901fe142b1815c25859d1eeb59)
   3) [SELECT DISTINCT 문법](https://www.notion.so/SELECT-DISTINCT-9a29ab26aaed41cd8b9d24b8433c2152)
@@ -21,7 +21,7 @@
   8) [BETWEEN 연산자](https://www.notion.so/BETWEEN-d87b8c75fa8849bb88a095378b21a04f)
   9) [LIKE 연산자](https://www.notion.so/LIKE-019ac5bfd58f47ccbae8b55f7fdf340a)
   10) [IS NULL 연산자](https://mica-sheep-286.notion.site/IS-NULL-8bbcd13243ab4f44bcfea55c9341a78c)
-### Part 2 - 조인과 집계 데이터
+### [Part 2 - 조인과 집계 데이터](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_bagic_grammar_part2)
   1) [Join Part1 - INNER, OUTER, SELF JOIN](https://mica-sheep-286.notion.site/JOIN-PART1-c7a1d0834e3a4be6af7a950a40c1b392)
 ## [실습 문제](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_parctice)
   1) [Part 1 실습문제](https://www.notion.so/d863d5a8544a4e0abe1fa767b29fe34f)
