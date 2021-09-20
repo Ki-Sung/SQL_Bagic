@@ -21,4 +21,4 @@
   9) [LIKE 연산자](https://www.notion.so/LIKE-019ac5bfd58f47ccbae8b55f7fdf340a)
   10) [IS NULL 연산자](https://mica-sheep-286.notion.site/IS-NULL-8bbcd13243ab4f44bcfea55c9341a78c)
 ## [실습 문제](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_parctice)
-  1) [실습문제 1](https://www.notion.so/d863d5a8544a4e0abe1fa767b29fe34f)
+  1) [실습문제 Part1](https://www.notion.so/d863d5a8544a4e0abe1fa767b29fe34f)
