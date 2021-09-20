@@ -22,6 +22,6 @@
   9) [LIKE 연산자](https://www.notion.so/LIKE-019ac5bfd58f47ccbae8b55f7fdf340a)
   10) [IS NULL 연산자](https://mica-sheep-286.notion.site/IS-NULL-8bbcd13243ab4f44bcfea55c9341a78c)
 ### [Part 2 - 조인과 집계 데이터](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_bagic_grammar_part2)
-  1) [Join Part1 - INNER, OUTER, SELF JOIN](https://mica-sheep-286.notion.site/JOIN-PART1-c7a1d0834e3a4be6af7a950a40c1b392)
+  1) [JOIN 정의와 INNER JOIN](https://www.notion.so/JOIN-INNER-JOIN-c7a1d0834e3a4be6af7a950a40c1b392)
 ## [실습 문제](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_parctice)
   1) [Part 1 실습문제](https://www.notion.so/d863d5a8544a4e0abe1fa767b29fe34f)
