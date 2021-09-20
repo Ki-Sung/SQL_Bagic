@@ -24,5 +24,6 @@
 ### [Part 2 - 조인과 집계 데이터](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_bagic_grammar_part2)
   1) [JOIN 정의와 INNER JOIN](https://www.notion.so/JOIN-INNER-JOIN-c7a1d0834e3a4be6af7a950a40c1b392)
   2) [OUTER JOIN](https://www.notion.so/OUTER-JOIN-9776d5b3eafd48c5b85d26e623013c15)
+  3) [SELF JOIN](https://www.notion.so/SELF-JOIN-4626fcfd849d449e9564c0fe2d4f0b81)
 ## [실습 문제](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_parctice)
   1) [Part 1 실습문제](https://www.notion.so/d863d5a8544a4e0abe1fa767b29fe34f)
