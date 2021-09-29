@@ -29,5 +29,8 @@
     4) [FULL OUTER JOIN](https://www.notion.so/FULL-OUTER-JOIN-f136775d6ab2455083f1bc475ac893b5)
     5) [CROSS JOIN](https://www.notion.so/CROSS-JOIN-0025e9c8114f4e6292178337820f5570)
     6) [NATURAL JOIN](https://www.notion.so/NATURAL-JOIN-bbc1561433f048ffa84af87dfe350555)
+2. 기초 집계 데이터 
+    1) [GROUP BY 절](https://mica-sheep-286.notion.site/GROUP-BY-23b0ab6406344cd3b9981d2b604819ba)
+    2) [HAVING 절](https://mica-sheep-286.notion.site/HAVING-824e1f0ef2ac49ab8d14e41a1ee411a5)
 ## [실습 문제](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_parctice)
   1) [Part 1 실습문제](https://www.notion.so/d863d5a8544a4e0abe1fa767b29fe34f)
