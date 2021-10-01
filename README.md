@@ -32,5 +32,8 @@
 2. 기초 집계 데이터 
     1) [GROUP BY 절](https://mica-sheep-286.notion.site/GROUP-BY-23b0ab6406344cd3b9981d2b604819ba)
     2) [HAVING 절](https://mica-sheep-286.notion.site/HAVING-824e1f0ef2ac49ab8d14e41a1ee411a5)
+    3) [GROUPING SET 절](https://mica-sheep-286.notion.site/GROUPING-SET-a2a43beaa9e943b1bec2ccad0be27a4e)
+    4) [ROLL UP 절](https://mica-sheep-286.notion.site/ROLL-UP-ef935b02e1d448239cd3ce7cb3cd76ef)
+    5) [CUBE 절](https://mica-sheep-286.notion.site/CUBE-f8a3ced3d3a8499987c8f93f8f93e899)
 ## [실습 문제](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_parctice)
   1) [Part 1 실습문제](https://www.notion.so/d863d5a8544a4e0abe1fa767b29fe34f)
