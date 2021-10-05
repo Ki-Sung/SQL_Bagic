@@ -39,5 +39,8 @@
 4. 분석 함수 
     1) [분석함수란?](https://mica-sheep-286.notion.site/af821cdba64c4850bc144ffb30ac88f2)
     2) [AVG 함수](https://mica-sheep-286.notion.site/AVG-f071d454c36e4d89b09719e54288b08d)
+    3) [순위 함수 - ROW_NUMBER, RANK, DENSE_RANK](https://mica-sheep-286.notion.site/ROW_NUMBER-RANK-DENSE_RANK-0103bb74e43f4fe78a49d0a03de09a58)
+    4) [FIRST_VALUE, LAST_VALUE](https://mica-sheep-286.notion.site/FIRST_VALUE-LAST_VALUE-e4f26947d2804306948753041614ec57)
+    5) [LAG, LEAD 함수 ](https://mica-sheep-286.notion.site/LAG-LEAD-25a1ae3653374a7cbeed3cb62b8ffbc3)
 ## [실습 문제](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_parctice)
   1) [Part 1 실습문제](https://www.notion.so/d863d5a8544a4e0abe1fa767b29fe34f)
