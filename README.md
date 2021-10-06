@@ -44,3 +44,4 @@
     5) [LAG, LEAD 함수 ](https://mica-sheep-286.notion.site/LAG-LEAD-25a1ae3653374a7cbeed3cb62b8ffbc3)
 ## [실습 문제](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_parctice)
   1) [Part 1 실습문제](https://www.notion.so/d863d5a8544a4e0abe1fa767b29fe34f)
+  2) [Part 2 실습문제](https://mica-sheep-286.notion.site/Part-2-416e8d595aee49c4beac9b9559a2495f)
