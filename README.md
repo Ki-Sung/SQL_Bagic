@@ -42,6 +42,10 @@
     3) [순위 함수 - ROW_NUMBER, RANK, DENSE_RANK](https://mica-sheep-286.notion.site/ROW_NUMBER-RANK-DENSE_RANK-0103bb74e43f4fe78a49d0a03de09a58)
     4) [FIRST_VALUE, LAST_VALUE](https://mica-sheep-286.notion.site/FIRST_VALUE-LAST_VALUE-e4f26947d2804306948753041614ec57)
     5) [LAG, LEAD 함수 ](https://mica-sheep-286.notion.site/LAG-LEAD-25a1ae3653374a7cbeed3cb62b8ffbc3)
+### [Part 3 - 집합 연산자와 서브쿼리](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_bagic_grammar_part3)
+1. 집합 연산자 
+    1) [UNION 연산](https://mica-sheep-286.notion.site/UNION-21261b21d81a42778b64380000fb5f3c)
+    2) [UNION ALL 연산](https://mica-sheep-286.notion.site/UNION-ALL-709fa18c341541c194e2b2e1550b62e3)
 ## [실습 문제](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_parctice)
   1) [Part 1 실습문제](https://www.notion.so/d863d5a8544a4e0abe1fa767b29fe34f)
   2) [Part 2 실습문제](https://mica-sheep-286.notion.site/Part-2-416e8d595aee49c4beac9b9559a2495f)
