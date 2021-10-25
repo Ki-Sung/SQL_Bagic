@@ -46,6 +46,8 @@
 1. 집합 연산자 
     1) [UNION 연산](https://mica-sheep-286.notion.site/UNION-21261b21d81a42778b64380000fb5f3c)
     2) [UNION ALL 연산](https://mica-sheep-286.notion.site/UNION-ALL-709fa18c341541c194e2b2e1550b62e3)
+    3) [INTERSECT 연산](https://www.notion.so/INTERSECT-6f862a7068ea471ebcac6e6c484f5aee)
+    4) [EXCEPT 연산](https://mica-sheep-286.notion.site/EXCEPT-09b4e0ead30b4504a85b2bff04e65c6b)
 ## [실습 문제](https://github.com/Ki-Sung/SQL_Bagic/tree/main/SQL_parctice)
   1) [Part 1 실습문제](https://www.notion.so/d863d5a8544a4e0abe1fa767b29fe34f)
   2) [Part 2 실습문제](https://mica-sheep-286.notion.site/Part-2-416e8d595aee49c4beac9b9559a2495f)
